@@ -6,6 +6,9 @@ authors = ["hakubishin3 <hansaku187@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+pandas = "^1.0.5"
+sklearn = "^0.0"
+numpy = "^1.19.0"
 
 [tool.poetry.dev-dependencies]
 
